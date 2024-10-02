@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JohnChizzy
 - 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning react.js 
+- 🌱 I’m currently working on react.js and vue.js projects
 - 💞️ I’m looking to collaborate on fullstack projects 
 - 📫 How to reach me ...
 
